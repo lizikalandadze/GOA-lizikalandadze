@@ -1,0 +1,8 @@
+print(20 >= 12)
+print(30 >= 40)
+print(30 == 30)
+print(30 == 10)
+print(10 > 9)
+print(2 > 4)
+print(40 < 30)
+print(32 < 40)
